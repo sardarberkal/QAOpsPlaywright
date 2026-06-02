@@ -1,0 +1,19 @@
+[
+    {
+        "username": "sardarberkal@gmail.com",
+        "password": "Maharaj@1",
+        "productName": "ZARA COAT 3",
+        "url": "https://rahulshettyacademy.com/client",
+        "countryCode": "ind",
+        "countryName": "India"
+    },
+
+    {
+        "username": "rahulshetty@gmail.com",
+        "password": "Iamking@00",
+        "productName": "Adidas Orignals",
+        "url": "https://rahulshettyacademy.com/client",
+        "countryCode": "cub",
+        "countryName": "Cuba"
+    }
+]

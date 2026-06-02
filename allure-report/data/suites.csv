@@ -1,0 +1,5 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","8977","@Web UI controls Test","","2026-05-29","passed","2026-05-29","","e2eFlow.spec.js","",""
+"","30995","@Web Client App Login for Adidas Orignals","","2026-05-29","broken","2026-05-29","","e2eFlowPO_Fixtures.spec.js","",""
+"","30647","@Web Client App Login for ZARA COAT 3","","2026-05-29","broken","2026-05-29","","e2eFlowPO_Fixtures.spec.js","",""
+"","6896","@Web UI controls Test","","2026-05-29","passed","2026-05-29","","e2eFlowOtherWay.spec.js","",""
