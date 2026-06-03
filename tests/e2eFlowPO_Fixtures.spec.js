@@ -10,7 +10,7 @@ for (const data of testData) {
     const loginPageObject = poManagerObject.getLoginPage();
     await loginPageObject.navigateToURL(data.url);
     await loginPageObject.validLogin(data.username, data.password);
-
+//updated comment
     const dashboardPageObject = poManagerObject.getdashboardPage();
     await dashboardPageObject.searchProduct(data.productName);
     await dashboardPageObject.navigateToCart();
